@@ -1,2 +1,2 @@
 name = "your-worker"
-main = "./path/to/your/worker.js"
+main = "server/index.js"
