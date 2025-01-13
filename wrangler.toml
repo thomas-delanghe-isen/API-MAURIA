@@ -1,2 +1,2 @@
-name = "mauriaapi"
+name = "mauriaapiserveur"
 main = "server/index.js"
